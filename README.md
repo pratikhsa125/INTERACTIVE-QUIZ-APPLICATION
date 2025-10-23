@@ -41,5 +41,9 @@ A dynamic and interactive **Quiz Application** built with **JavaScript**, **HTML
 - Multiple categories and difficulty levels  
 
 ##output
-
+<img width="1864" height="880" alt="Image" src="https://github.com/user-attachments/assets/885dd208-6426-455f-94f5-2fbed6fd52f1" />
+<img width="1853" height="878" alt="Image" src="https://github.com/user-attachments/assets/d96cd955-fc7f-4e19-be38-3ed2c981dddc" />
+<img width="1852" height="875" alt="Image" src="https://github.com/user-attachments/assets/0e7b1db5-fefd-4917-a104-f3a97b617252" />
+<img width="1858" height="867" alt="Image" src="https://github.com/user-attachments/assets/d2867997-ee74-43d4-b450-d63b62fde0c7" />
+<img width="1871" height="878" alt="Image" src="https://github.com/user-attachments/assets/d9c26e17-51cc-4b5b-aaaa-4e1d3f65a2ba" />
 
