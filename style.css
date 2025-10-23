@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #667eea, #764ba2);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 30px;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 600px;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+#question {
+  font-size: 1.4rem;
+  margin-bottom: 20px;
+}
+
+#options {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+button.option {
+  padding: 12px;
+  background-color: #444;
+  border: none;
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button.option:hover {
+  background-color: #555;
+}
+
+button.option.correct {
+  background-color: #4caf50;
+}
+
+button.option.wrong {
+  background-color: #f44336;
+}
+
+#feedback {
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+}
+
+#nextBtn {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background: #2196f3;
+  border: none;
+  border-radius: 6px;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+#nextBtn:hover {
+  background: #1976d2;
+}
+
+.hidden {
+  display: none;
+}
+
+#result h2 {
+  margin-bottom: 15px;
+}
+
+#result button {
+  background: #28a745;
+}
