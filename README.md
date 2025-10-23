@@ -42,10 +42,4 @@ A dynamic and interactive **Quiz Application** built with **JavaScript**, **HTML
 
 ##output
 
-<img width="1225" height="773" alt="Image" src="https://github.com/user-attachments/assets/af287ef9-8ce8-4bdc-baf5-6306603e09ab" />
-<img width="970" height="679" alt="Image" src="https://github.com/user-attachments/assets/6e68479f-3875-47c0-8b7c-b9800c0a6fde" />
-<img width="871" height="686" alt="Image" src="https://github.com/user-attachments/assets/89d93cc6-b5f6-4679-9e00-87744a4cc2e4" />
-<img width="1058" height="703" alt="Image" src="https://github.com/user-attachments/assets/bf3603ed-3049-4ed1-a1f2-557112ab3258" />
-<img width="864" height="673" alt="Image" src="https://github.com/user-attachments/assets/bb694e79-317e-41e8-b981-82c5da5ac4d2" />
-<img width="965" height="487" alt="Image" src="https://github.com/user-attachments/assets/0af15968-de87-4792-aad0-f7ab0293d88f" />
 
