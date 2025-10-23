@@ -41,9 +41,9 @@ A dynamic and interactive **Quiz Application** built with **JavaScript**, **HTML
 - Multiple categories and difficulty levels  
 
 ##output
-<img width="1864" height="880" alt="Image" src="https://github.com/user-attachments/assets/885dd208-6426-455f-94f5-2fbed6fd52f1" />
-<img width="1853" height="878" alt="Image" src="https://github.com/user-attachments/assets/d96cd955-fc7f-4e19-be38-3ed2c981dddc" />
-<img width="1852" height="875" alt="Image" src="https://github.com/user-attachments/assets/0e7b1db5-fefd-4917-a104-f3a97b617252" />
-<img width="1858" height="867" alt="Image" src="https://github.com/user-attachments/assets/d2867997-ee74-43d4-b450-d63b62fde0c7" />
-<img width="1871" height="878" alt="Image" src="https://github.com/user-attachments/assets/d9c26e17-51cc-4b5b-aaaa-4e1d3f65a2ba" />
-
+<img width="1864" height="880" alt="Image" src="https://github.com/user-attachments/assets/86d014fe-1775-47d3-8c6d-26d710df728d" />
+<img width="1853" height="878" alt="Image" src="https://github.com/user-attachments/assets/bc6805e9-2858-49b7-9067-394b75ae5391" />
+<img width="1852" height="875" alt="Image" src="https://github.com/user-attachments/assets/04a3257f-f484-4a44-9e70-46e8d1c4f7a4" />
+<img width="1858" height="867" alt="Image" src="https://github.com/user-attachments/assets/384c7cee-aa19-4f96-92e7-a5204aaf21f8" />
+<img width="1860" height="880" alt="Image" src="https://github.com/user-attachments/assets/291a8fca-379f-492c-bfd7-27aa0019b1a1" />
+<img width="1871" height="878" alt="Image" src="https://github.com/user-attachments/assets/1d2c606f-4f34-490c-8df6-46b9ac84178d" />
